@@ -26,4 +26,5 @@ func main() {
 	r.Close()
 
 	fmt.Println(out.String())
+	fmt.Scanln()
 }
